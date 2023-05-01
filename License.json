@@ -1,12 +1,11 @@
 {
-  "licencias": {
-    "licencia1": "123-ABC",
-    "licencia2": "456-DEF",
-    "licencia3": "789-GHI"
-  },
-  "hwids": {
-    "licencia1": "178BFBFF00600F20",
-    "licencia2": "123",
-    "licencia3": "321"
-  }
+  "licencia1": "123-ABC",
+  "licencia2": "456-DEF",
+  "licencia3": "789-GHI"
+}
+
+{
+  "licencia1": "178BFBFF00600F20",
+  "licencia2": "123",
+  "licencia3": "321"
 }
